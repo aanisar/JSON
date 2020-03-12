@@ -1,0 +1,39 @@
+{
+    "pizzaTypes": [
+      {
+        "name": "Classic Pepporoni",
+        "price" : 9.75,
+        "size" : "large",
+        "toppings" : [
+          "cheese",
+          "pepporoni"
+        ],
+        "image" : "pizza-1.jpg"
+      },
+      {
+        "name": "Veggie Delght",
+        "price": 12.95,
+        "size" : "small",
+        "toppings" : [
+          "cheese",
+          "green olives",
+          "tomatoes",
+          "pineapple"
+        ],
+        "image" : "pizza-2.jpg"
+      },
+      {
+      "name": "Halal Pizza",
+      "price" : 12.59,
+      "size" : "medium",
+      "toppings" : [
+        "chicken",
+        "beef",
+        "lamb",
+        "cheese",
+        "halal pepporoni"
+      ],
+      "image" : "pizza-3.jpg"
+      }
+    ]
+  }
